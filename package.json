@@ -1,0 +1,14 @@
+{
+  "name": "bedu-express",
+  "version": "1.0.0",
+  "description": "Taller de bedu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Camargo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
